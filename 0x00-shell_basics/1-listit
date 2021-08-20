@@ -1,3 +1,2 @@
 #!/bin/bash
-What's in there?
-			ls -a
+ls -a
