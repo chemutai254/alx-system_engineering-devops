@@ -1,2 +1,2 @@
 #!/bin/bash
-find /mount/point -type d | wc -1
+ echo 'find . -maxdepth 1 -type d | wc -1' -1 | bc
