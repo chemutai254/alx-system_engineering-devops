@@ -1,2 +1,2 @@
 #!/bin/bash
- echo 'find . -maxdepth 1 -type d | wc -1' -1 | bc
+ls -la | grep -v total | wc -1
