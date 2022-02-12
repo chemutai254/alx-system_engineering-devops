@@ -1,11 +1,1 @@
-## Simple web stack
-- A server: A system that provides resources, data, services or programs to other computers such as client over a network.
-- Role of domain name: A domain name reinforces a website identity thus acting as a backbone of your digital presence.
-- DNS record avaiable in www.foobar.com: 8.8.8.8
-- Role of the web server: To respond by sending data to the requesting IP address.
-- Role of the application server: A software that provides both facilities to create web applications and a server environment to run them.
-- Role of the Database: A tool for collecting and organizing information.
-- Server communication: Uses the internet.
-- SPOF: Single Point of Failure is any non-redundant part of the system that, if dysfunctional, would cause the entire system to fail.
-- Downtime: When maintenance is needed, it impacts organizations negatively since productivity and business continuity decreases exposing a business to threat.
-- Scaling: This type of infrastructure is not dependable since it does not scale upon high traffic. 
+https://imgur.com/a/QX83sKw 
