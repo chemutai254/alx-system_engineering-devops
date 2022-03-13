@@ -18,4 +18,4 @@
 - Puppet resource type: file <https://alx-intranet.hbtn.io/rltoken/DjSqEUZh5jSvzQbr8Hn_hA>
 - Puppet's Declarative Language: Modeling Instead of Scripting <https://alx-intranet.hbtn.io/rltoken/fZbIuIwhPZWQUQNTjsqu1A>
 - Puppet lint <https://alx-intranet.hbtn.io/rltoken/CRUMeEMdcX-UtbWsUM9xLQ>
-- Puppet emacs mode <https://github.com/voxpupuli/puppet-mode>
+- Puppet emacs mode <https://alx-intranet.hbtn.io/rltoken/MzHXCntAkPzOqMnI6_rpWQ>
