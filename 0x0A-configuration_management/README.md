@@ -4,7 +4,7 @@
 - A code must have a Puppet code for an infrastructure.
 
 
-***Commands to install Puppet 5.5 on Ubuntu 20.0.4 VM***
+***Commands to Install Puppet 5.5 on Ubuntu 20.0.4 VM***
 - apt-get install -y ruby=1:2.7+1 --allow-downgrades
 - apt-get install -y ruby-augeas
 - apt-get install -y ruby-shadow
