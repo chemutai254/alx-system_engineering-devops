@@ -10,8 +10,8 @@
 
 ---
 ***References***
-- Understanding the SSH Encryption and Connection Process <https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process>
-- Secure Shell Wiki <https://en.wikipedia.org/wiki/Secure_Shell>
-- IETF RFC 4251 (Description of the SSh Protocol) <https://www.ietf.org/rfc/rfc4251.txt>
-- Internet Engineering Task Force <https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force>
-- Request for Comments <https://en.wikipedia.org/wiki/Request_for_Comments>
+- Understanding the SSH Encryption and Connection Process <https://alx-intranet.hbtn.io/rltoken/JB-Vi4dR3q6nF4MBhsn8kQ>
+- Secure Shell Wiki <https://alx-intranet.hbtn.io/rltoken/SpiYWE79Yfr_vWDg42dzCw>
+- IETF RFC 4251 (Description of the SSh Protocol) <https://alx-intranet.hbtn.io/rltoken/f2O0OQq9tch2MYeNAzkg5w>
+- Internet Engineering Task Force <https://alx-intranet.hbtn.io/rltoken/gd1W1UvB0KeJVWwM8BLvhA>
+- Request for Comments <https://alx-intranet.hbtn.io/rltoken/jb-IrnQnUh-PsEDlbAU0Kw>
