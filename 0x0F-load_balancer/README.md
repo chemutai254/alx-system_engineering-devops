@@ -1,6 +1,5 @@
 ### 0x0F. Load balancer
 ---
-
 - Loadbalancing creates redundancy for the web servers.
 ---
 
