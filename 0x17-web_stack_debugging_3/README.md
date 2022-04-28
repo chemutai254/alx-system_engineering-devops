@@ -18,6 +18,13 @@
 
 ## tmux
 - Also described as terminal multiplexer.
+- tmax installation command: sudo apt-get install tmux
+- Start first session: tmux
+- Closing panes command: exit or Ctrl-d
+- To check running sessions: tmux ls
+- To start a session: tmux attach -t 0
+- Create next session: tmux new -s database
+- Rename existing session: tmux remane-session -t 0 database
 <a>https://alx-intranet.hbtn.io/rltoken/UsSRoxIYdq0l0QUIuDNnSw</a>
 ---
 
