@@ -1,3 +1,12 @@
 ### 0x11. What happens when you type google.com in your browser and press Enter
 - Creating a blog that explains what happens when an individual types a domain google.com on the browser.
+- It covers:
+	- DNS
+	- TCP/IP
+	- Firewall
+	- HTTPS/SSL
+	- Load-balancer
+	- Web server
+	- Application server
+	- Database
 ---
